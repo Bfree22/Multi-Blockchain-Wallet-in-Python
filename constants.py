@@ -1,0 +1,4 @@
+
+BTC = "BTC"
+ETH = "ETH"
+BTCTEST = "BTCTEST"
